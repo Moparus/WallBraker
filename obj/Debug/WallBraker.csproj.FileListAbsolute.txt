@@ -1,0 +1,41 @@
+E:\Projekty C#\WallBraker\WallBraker\bin\Debug\WallBraker.exe.config
+E:\Projekty C#\WallBraker\WallBraker\bin\Debug\WallBraker.exe
+E:\Projekty C#\WallBraker\WallBraker\bin\Debug\WallBraker.pdb
+E:\Projekty C#\WallBraker\WallBraker\obj\Debug\WallBraker.csproj.AssemblyReference.cache
+E:\Projekty C#\WallBraker\WallBraker\obj\Debug\WallBraker.Form1.resources
+E:\Projekty C#\WallBraker\WallBraker\obj\Debug\WallBraker.Properties.Resources.resources
+E:\Projekty C#\WallBraker\WallBraker\obj\Debug\WallBraker.csproj.GenerateResource.cache
+E:\Projekty C#\WallBraker\WallBraker\obj\Debug\WallBraker.csproj.CoreCompileInputs.cache
+E:\Projekty C#\WallBraker\WallBraker\obj\Debug\WallBraker.exe
+E:\Projekty C#\WallBraker\WallBraker\obj\Debug\WallBraker.pdb
+D:\C#\WallBraker\WallBraker\bin\Debug\WallBraker.exe.config
+D:\C#\WallBraker\WallBraker\bin\Debug\WallBraker.exe
+D:\C#\WallBraker\WallBraker\bin\Debug\WallBraker.pdb
+D:\C#\WallBraker\WallBraker\obj\Debug\WallBraker.csproj.AssemblyReference.cache
+D:\C#\WallBraker\WallBraker\obj\Debug\WallBraker.Form1.resources
+D:\C#\WallBraker\WallBraker\obj\Debug\WallBraker.Properties.Resources.resources
+D:\C#\WallBraker\WallBraker\obj\Debug\WallBraker.csproj.GenerateResource.cache
+D:\C#\WallBraker\WallBraker\obj\Debug\WallBraker.csproj.CoreCompileInputs.cache
+D:\C#\WallBraker\WallBraker\obj\Debug\WallBraker.exe
+D:\C#\WallBraker\WallBraker\obj\Debug\WallBraker.pdb
+C:\Users\Mateusz\Desktop\WallBraker\WallBraker\bin\Debug\WallBraker.exe.config
+C:\Users\Mateusz\Desktop\WallBraker\WallBraker\bin\Debug\WallBraker.exe
+C:\Users\Mateusz\Desktop\WallBraker\WallBraker\bin\Debug\WallBraker.pdb
+C:\Users\Mateusz\Desktop\WallBraker\WallBraker\obj\Debug\WallBraker.csproj.AssemblyReference.cache
+C:\Users\Mateusz\Desktop\WallBraker\WallBraker\obj\Debug\WallBraker.Form1.resources
+C:\Users\Mateusz\Desktop\WallBraker\WallBraker\obj\Debug\WallBraker.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\WallBraker\WallBraker\obj\Debug\WallBraker.csproj.GenerateResource.cache
+C:\Users\Mateusz\Desktop\WallBraker\WallBraker\obj\Debug\WallBraker.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\WallBraker\WallBraker\obj\Debug\WallBraker.exe
+C:\Users\Mateusz\Desktop\WallBraker\WallBraker\obj\Debug\WallBraker.pdb
+C:\Users\mzpot\Desktop\Projekty\WallBraker\WallBraker\bin\Debug\WallBraker.exe.config
+C:\Users\mzpot\Desktop\Projekty\WallBraker\WallBraker\bin\Debug\WallBraker.exe
+C:\Users\mzpot\Desktop\Projekty\WallBraker\WallBraker\bin\Debug\WallBraker.pdb
+C:\Users\mzpot\Desktop\Projekty\WallBraker\WallBraker\obj\Debug\WallBraker.csproj.AssemblyReference.cache
+C:\Users\mzpot\Desktop\Projekty\WallBraker\WallBraker\obj\Debug\WallBraker.csproj.SuggestedBindingRedirects.cache
+C:\Users\mzpot\Desktop\Projekty\WallBraker\WallBraker\obj\Debug\WallBraker.Form1.resources
+C:\Users\mzpot\Desktop\Projekty\WallBraker\WallBraker\obj\Debug\WallBraker.Properties.Resources.resources
+C:\Users\mzpot\Desktop\Projekty\WallBraker\WallBraker\obj\Debug\WallBraker.csproj.GenerateResource.cache
+C:\Users\mzpot\Desktop\Projekty\WallBraker\WallBraker\obj\Debug\WallBraker.csproj.CoreCompileInputs.cache
+C:\Users\mzpot\Desktop\Projekty\WallBraker\WallBraker\obj\Debug\WallBraker.exe
+C:\Users\mzpot\Desktop\Projekty\WallBraker\WallBraker\obj\Debug\WallBraker.pdb
