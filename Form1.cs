@@ -13,9 +13,9 @@ namespace WallBraker
 {
     public partial class Form1 : Form
     {
-        SoundPlayer music = new SoundPlayer(@"d:\C#\WallBraker\WallBraker\Sounds\bounce.wav");
-        SoundPlayer endGame = new SoundPlayer(@"d:\C#\WallBraker\WallBraker\Sounds\end.wav");
-        SoundPlayer dead = new SoundPlayer(@"d:\C#\WallBraker\WallBraker\Sounds\dead.wav");
+        SoundPlayer music = new SoundPlayer(@"Sounds\bounce.wav");
+        SoundPlayer endGame = new SoundPlayer(@"Sounds\end.wav");
+        SoundPlayer dead = new SoundPlayer(@"Sounds\dead.wav");
 
         bool goRight;
         bool goLeft;

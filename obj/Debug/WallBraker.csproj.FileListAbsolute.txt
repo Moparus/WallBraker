@@ -39,3 +39,14 @@ C:\Users\mzpot\Desktop\Projekty\WallBraker\WallBraker\obj\Debug\WallBraker.cspro
 C:\Users\mzpot\Desktop\Projekty\WallBraker\WallBraker\obj\Debug\WallBraker.csproj.CoreCompileInputs.cache
 C:\Users\mzpot\Desktop\Projekty\WallBraker\WallBraker\obj\Debug\WallBraker.exe
 C:\Users\mzpot\Desktop\Projekty\WallBraker\WallBraker\obj\Debug\WallBraker.pdb
+C:\Users\mzpot\Desktop\CV\Projekty\.WallBraker\WallBraker\bin\Debug\WallBraker.exe.config
+C:\Users\mzpot\Desktop\CV\Projekty\.WallBraker\WallBraker\bin\Debug\WallBraker.exe
+C:\Users\mzpot\Desktop\CV\Projekty\.WallBraker\WallBraker\bin\Debug\WallBraker.pdb
+C:\Users\mzpot\Desktop\CV\Projekty\.WallBraker\WallBraker\obj\Debug\WallBraker.csproj.AssemblyReference.cache
+C:\Users\mzpot\Desktop\CV\Projekty\.WallBraker\WallBraker\obj\Debug\WallBraker.csproj.SuggestedBindingRedirects.cache
+C:\Users\mzpot\Desktop\CV\Projekty\.WallBraker\WallBraker\obj\Debug\WallBraker.Form1.resources
+C:\Users\mzpot\Desktop\CV\Projekty\.WallBraker\WallBraker\obj\Debug\WallBraker.Properties.Resources.resources
+C:\Users\mzpot\Desktop\CV\Projekty\.WallBraker\WallBraker\obj\Debug\WallBraker.csproj.GenerateResource.cache
+C:\Users\mzpot\Desktop\CV\Projekty\.WallBraker\WallBraker\obj\Debug\WallBraker.csproj.CoreCompileInputs.cache
+C:\Users\mzpot\Desktop\CV\Projekty\.WallBraker\WallBraker\obj\Debug\WallBraker.exe
+C:\Users\mzpot\Desktop\CV\Projekty\.WallBraker\WallBraker\obj\Debug\WallBraker.pdb
