@@ -187,7 +187,7 @@ namespace WallBraker
         private void gameOver(string end)
         {
             // Koniec / Załaduj ponownie
-            endGame.Play();
+            // endGame.Play();
             timer1.Stop();
             DialogResult dialogResult = MessageBox.Show($"You {end} Next Game?",
                 end, System.Windows.Forms.MessageBoxButtons.YesNo);
